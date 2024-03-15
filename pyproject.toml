@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python-template"
+name = "systemInfo_Checker"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Program that checks a computer's system info"
+authors = ["Isomkevin <47275702+Isomkevin@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.12"
