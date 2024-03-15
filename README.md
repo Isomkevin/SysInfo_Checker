@@ -58,10 +58,10 @@ This program is licensed under the [MIT License](https://mit-license.org/ "MIT L
 ## Acknowledgements
 Special thanks to the developers and contributors of the libraries and tools used in this project.
 
-Library Name - Description of the library and its purpose.
+- [Platform Python Module](https://docs.python.org/3/library/platform.html) - An In-built python module This module tries to retrieve as much platform-identifying data as possible.
 
 ## Contact
-For any inquiries or support, please contact me at [email@example.com](email@example.com)
+For any inquiries or support, please contact me on [Gmail](kevinisomcode1000@gmail.com)
 
 
 **© 2024** Kevin B. Isom
